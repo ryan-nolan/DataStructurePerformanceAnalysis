@@ -23,6 +23,7 @@
     <ProjectGuid>{6A7B7B0E-5893-4ECF-90F9-51966F756DC0}</ProjectGuid>
     <RootNamespace>ACWTemplate</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DataStructurePerformanceAnalysis</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
