@@ -1,0 +1,70 @@
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetMode' returns handles to member data: 'mode'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>OOP-36
+<b>Public member function 'GetMode' returns non-const handles to member data: 'mode'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>INIT-14
+<b>Assignment in constructor 'Arc' found. Use constructor initialization list instead
+<l>10
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\advworking\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'mode' of class 'Arc' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetDest' is not inlined
+<l>14
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetMode' returns handles to member data: 'mode'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Arc.cpp
+<c>OOP-36
+<b>Public member function 'GetMode' returns non-const handles to member data: 'mode'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0

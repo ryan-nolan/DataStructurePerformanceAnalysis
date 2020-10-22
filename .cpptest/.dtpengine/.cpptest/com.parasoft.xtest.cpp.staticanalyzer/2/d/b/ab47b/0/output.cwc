@@ -1,0 +1,180 @@
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetName' returns handles to member data: 'name'
+<l>11
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OPT-24
+<b>Function 'AddArc' is not inlined
+<l>17
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetArcs' returns handles to member data: 'm_Arcs'
+<l>19
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OOP-36
+<b>Public member function 'GetArcs' returns non-const handles to member data: 'm_Arcs'
+<l>19
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "place" with const specifier
+<l>23
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "arcLinks" with const specifier
+<l>23
+<k>122
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\advworking\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'mode' of class 'Arc' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'GetName' should be declared as const
+<l>11
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>INIT-14
+<b>Assignment in constructor 'Node' found. Use constructor initialization list instead
+<l>26
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>INIT-14
+<b>Assignment in constructor 'Node' found. Use constructor initialization list instead
+<l>27
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>INIT-14
+<b>Assignment in constructor 'Node' found. Use constructor initialization list instead
+<l>28
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetReferenceNumber' is not inlined
+<l>9
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLatitude' is not inlined
+<l>13
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLongitude' is not inlined
+<l>15
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetName' returns handles to member data: 'name'
+<l>11
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OPT-24
+<b>Function 'AddArc' is not inlined
+<l>17
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetArcs' returns handles to member data: 'm_Arcs'
+<l>19
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Node.cpp
+<c>OOP-36
+<b>Public member function 'GetArcs' returns non-const handles to member data: 'm_Arcs'
+<l>19
+<k>33
+<s>false
+<N>
+<f>
+<L>0

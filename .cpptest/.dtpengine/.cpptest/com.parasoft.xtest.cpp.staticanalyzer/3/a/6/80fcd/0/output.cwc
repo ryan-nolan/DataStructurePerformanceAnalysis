@@ -1,0 +1,100 @@
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'GetName' returns handles to member data: 'name'
+<l>11
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>OPT-24
+<b>Function 'AddArc' is not inlined
+<l>17
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'arcPtr' as const
+<l>17
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-43
+<b>Declare parameter 'place' in 'Node' function as reference to const object
+<l>21
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "arcLinks" with const specifier
+<l>21
+<k>96
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'place' as const
+<l>21
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'referenceNum' as const
+<l>21
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'lat' as const
+<l>21
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'longitudeVal' as const
+<l>21
+<k>68
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>G:\ACW_Template\Node.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'arcLinks' as const
+<l>21
+<k>96
+<s>false
+<N>
+<f>
+<L>0

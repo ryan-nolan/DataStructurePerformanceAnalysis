@@ -1,0 +1,20 @@
+<->
+<F>C:\Temp\ADVWORKING\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'BuildNetwork' should be declared as const
+<l>351
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\advworking\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'mode' of class 'Arc' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0

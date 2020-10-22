@@ -1,0 +1,19 @@
+codewizard.ltm 1dcdc924
+cpptestcc.compilerCfgFile C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\etc\compilers\vc_14_1\cpp.psrc
+cpptestcc.workspace .
+cpptestcc.runAnalysis on
+cpptestcc.runOriginalCommand off
+codewizard.suppressFile +*
+codewizard.suppressFile -G:\ACW_Template\Arc.cpp
+ppro.headerSequenceFile G:\ACW_Template\.cpptest\.dtpengine\.\.cpptest\com.parasoft.xtest.cpp.ipro\5\3\d\fd1f\0\output.ipro
+codewizard.headerSequenceFile G:\ACW_Template\.cpptest\.dtpengine\.\.cpptest\com.parasoft.xtest.cpp.ipro\5\3\d\fd1f\0\output.ipro
+cpptestcc.runIpro off
+cpptestcc.runCwc on
+codewizard.suppressFile -g:\acw_template\Arc.h
+codewizard.ignoreFilesForTextAnalysis g:\acw_template\Arc.h
+codewizard.suppressFile -g:\acw_template\Node.h
+codewizard.ignoreFilesForTextAnalysis g:\acw_template\Node.h
+codewizard.reportFile G:\ACW_Template\.cpptest\.dtpengine\.\.cpptest\com.parasoft.xtest.cpp.staticanalyzer\5\3\d\fd1f\0\output.cwc
+codewizard.pproDataFile G:\ACW_Template\.cpptest\.dtpengine\.\.cpptest\com.parasoft.xtest.cpp.ppro\5\3\d\fd1f\0\output.ppro
+ppro.outputFile G:\ACW_Template\.cpptest\.dtpengine\.\.cpptest\com.parasoft.xtest.cpp.ppro\5\3\d\fd1f\0\output.ppro
+cpptestcc.runPpro on
